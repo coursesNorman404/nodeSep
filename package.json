@@ -1,0 +1,22 @@
+{
+  "name": "nodesep",
+  "version": "1.0.0",
+  "description": "Curso de node en Septiembre y Octubre",
+  "main": "index.js",
+  "scripts": {
+    "hola": "cowsay ¡Hola Mundo!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coursesNorman404/nodeSep.git"
+  },
+  "author": "@NormanTorres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coursesNorman404/nodeSep/issues"
+  },
+  "homepage": "https://github.com/coursesNorman404/nodeSep#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
